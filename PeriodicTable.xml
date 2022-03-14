@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pTable>
+	<element>
+		<number>0</number>
+		<symbol>Fb</symbol>
+		<altSymbol>Foo</altSymbol>
+		<name>Foobarium</name>
+		<altName>Boofar</altName>
+		<standardMass>69.420</standardMass>
+		<energyLevels>1,2,4</energyLevels>
+		<electroNegativity>4.20</electroNegativity>
+		<electronAffinity>69.420</electronAffinity>
+		<oxidationStates>-2,-1,1,2,3</oxidationStates>
+		<isotope>
+			<neutronCount>8</neutronCount>
+			<decayMode>a</decayMode>
+			<halfLife>69.0y</halfLife>
+		</isotope>
+		<group>19</group>
+		<period>8</period>
+		<series>Pseudometals</series>
+		<yearDiscovered>2022</yearDiscovered>
+	</element>
+	<element>
+		<number>1</number>
+		<symbol>H</symbol>
+		<altSymbol></altSymbol>
+		<name>Hydrogen</name>
+		<altName>Protium</altName>
+		<standardMass>1.008</standardMass>
+		<energyLevels>1</energyLevels>
+		<electroNegativity>2.20</electroNegativity>
+		<electronAffinity>72.8</electronAffinity>
+		<oxidationStates>-1,1</oxidationStates>
+		<isotope>
+			<neutronCount>1</neutronCount>
+			<decayMode></decayMode>
+			<halfLife></halfLife>
+		</isotope>
+		<isotope>
+			<neutronCount>2</neutronCount>
+			<decayMode></decayMode>
+			<halfLife></halfLife>
+		</isotope>
+		<group>1</group>
+		<period>1</period>
+		<series>Reactive nonmetals</series>
+		<yearDiscovered>1766</yearDiscovered>
+	</element>
+</pTable>
