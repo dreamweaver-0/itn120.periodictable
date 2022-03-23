@@ -11,15 +11,24 @@
 		<electroNegativity>4.20</electroNegativity>
 		<electronAffinity>69.420</electronAffinity>
 		<oxidationStates>-2,-1,1,2,3</oxidationStates>
-		<isotope>
-			<neutronCount>8</neutronCount>
-			<decayMode>a</decayMode>
-			<halfLife>69.0y</halfLife>
-		</isotope>
+		<isotopes>
+			<isotope>
+				<neutronCount>0</neutronCount>
+				<decayMode></decayMode>
+				<halfLife></halfLife>
+			</isotope>
+			<isotope>
+				<neutronCount>8</neutronCount>
+				<decayMode>a</decayMode>
+				<halfLife>69.0y</halfLife>
+			</isotope>
+		</isotopes>
 		<group>19</group>
 		<period>8</period>
 		<series>Pseudometals</series>
 		<yearDiscovered>2022</yearDiscovered>
+		<origin>synthetic</origin>
+		<hexRGBcolor></hexRGBcolor>
 	</element>
 	<element>
 		<number>1</number>
@@ -32,19 +41,28 @@
 		<electroNegativity>2.20</electroNegativity>
 		<electronAffinity>72.8</electronAffinity>
 		<oxidationStates>-1,1</oxidationStates>
-		<isotope>
-			<neutronCount>1</neutronCount>
-			<decayMode></decayMode>
-			<halfLife></halfLife>
-		</isotope>
-		<isotope>
-			<neutronCount>2</neutronCount>
-			<decayMode></decayMode>
-			<halfLife></halfLife>
-		</isotope>
+		<isotopes>
+			<isotope>
+				<neutronCount>0</neutronCount>
+				<decayMode></decayMode>
+				<halfLife></halfLife>
+			</isotope>
+			<isotope>
+				<neutronCount>1</neutronCount>
+				<decayMode></decayMode>
+				<halfLife></halfLife>
+			</isotope>
+			<isotope>
+				<neutronCount>2</neutronCount>
+				<decayMode></decayMode>
+				<halfLife></halfLife>
+			</isotope>
+		</isotopes>
 		<group>1</group>
 		<period>1</period>
 		<series>Reactive nonmetals</series>
 		<yearDiscovered>1766</yearDiscovered>
+		<origin>primordial</origin>
+		<hexRGBcolor></hexRGBcolor>
 	</element>
 </pTable>
